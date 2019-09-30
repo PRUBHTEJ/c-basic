@@ -1,8 +1,0 @@
-//my first git (c) program
-#include<conio.h>
-#include<stdio.h>
-void main()
-{
-cout<<"hello world";
-getch();
-}
