@@ -1,0 +1,16 @@
+#include<conio.h>
+#include<stdio.h>
+int add(int a,int b,int c)
+void main()
+{int d,d,e;
+cout<<"enter three numbers to be added";
+cin>>d>>" ">>e>>" ">>f;
+sum=add(d,e,f);
+cout<<"the sum is "<<add;
+}
+int add(int a ,b,c)
+{
+int sum=a+b+c;
+return sum;
+}
+
