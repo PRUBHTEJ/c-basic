@@ -1,0 +1,12 @@
+#include<conio.h>
+#include<stdio.h>
+void main()
+{
+int n1,n2,n3,sum,i,n;
+clrscr();
+cout<<"enter 3 numbers to be added";
+cin>>n1>>" ">>n2>>" ">>n3;
+sum=n1+n2+n3;
+cout<<"the sum of the entered numbers is "<<sum;
+getch();
+}
