@@ -1,2 +1,2 @@
 # c-basic
-this repository consists of basic c progrmas as well as ds through c
+this repository consists of basic c programs as well as ds through c
