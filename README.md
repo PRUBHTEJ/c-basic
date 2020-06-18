@@ -1,2 +1,2 @@
-# c-basic
-this repository consists of basic c programs as well as ds through c
+# c-Basic
+This Repo comprises of programs executed in C Language .
